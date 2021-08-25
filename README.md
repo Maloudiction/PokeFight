@@ -1,7 +1,8 @@
 # PokeFight
 (minigame on console)
+(langage : FRENCH)
 
-Hi ! here is a minigame created during summer 2021. 
+Hi ! here is a text minigame created during summer 2021. 
 It's supposed to be played by 2 players. 
 The last one standing win !
 
